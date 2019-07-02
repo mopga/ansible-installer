@@ -1,5 +1,5 @@
 ---
-- name: Install fluentd agent and docker on worker nodes of cluster
+- name: Install packets locally
   hosts: 127.0.0.1
   connection: local
   gather_facts: true

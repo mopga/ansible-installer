@@ -1,6 +1,6 @@
 ---
 packets:
- - krb5-workstation
+ - krb5-user
  - curl
  - wget
  - unzip
